@@ -1,0 +1,1 @@
+//gets a random hex color
